@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X4ZKHKerY5RlyFaxTHXuJTwVPqPT0mY3o0vUdcJPGJ9Vo4Cmmk3zoNiFfydR44Zd0iQ/tj5XqaSVTn/lm5b1Sw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mcysr\\source\\repos\\PollyResilienceLibExamples\\PollyResilienceLibExamples\\PollyResilienceLibExamples.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mcysr\\.nuget\\packages\\polly\\7.2.1\\polly.7.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
